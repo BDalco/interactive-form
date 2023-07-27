@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
   otherJobRole.style.display = 'none';
   
   // Setting the shirt-colors to not display when the page loads
-  shirtColor.disabled = true
+  shirtColor.disabled = true;
 
   // Setting the additional payment options not to display when the page loads
   paypal.style.display = 'none';
